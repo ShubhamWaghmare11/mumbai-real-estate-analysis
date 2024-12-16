@@ -16,11 +16,7 @@ Modeling: Tested various algorithms and achieved the best results with Support V
 
 Sections:
 
-Analysis Section: In-depth analysis of the housing market in Mumbai. sharing some screenshots.
-![image](https://github.com/sanjaychauhan001/mumbai-real-estate-project/assets/131572534/2467392f-0b42-402b-a0f2-a2f6cc80917b)
-
-![image](https://github.com/sanjaychauhan001/mumbai-real-estate-project/assets/131572534/908d011a-b447-463d-a403-468dca6e0f95)
-
+Analysis Section: In-depth analysis of the housing market in Mumbai. 
 Flat Price Prediction: Predictive modeling to forecast flat prices.
 
 Flat Recommendation: User-input-based recommendation system.
