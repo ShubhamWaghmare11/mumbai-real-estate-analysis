@@ -1,4 +1,4 @@
-App Link: https://sanjaychauhan001-mumbai-real-estate-project-home-ixw0va.streamlit.app/
+App Link: https://mumbairealestateanalysis.streamlit.app/
 
 Project: Mumbai Flat Price Prediction and Recommendation
 
